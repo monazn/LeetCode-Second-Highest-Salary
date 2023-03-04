@@ -1,0 +1,1 @@
+# LeetCode-Second-Highest-Salary
